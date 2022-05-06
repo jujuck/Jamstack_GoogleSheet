@@ -3,7 +3,7 @@ Start cloning the project and run `npm install`.
 
 
 ## The context, We want to create a POC (Proof of concept) about second hand car, sold by local company
-- 1 First fo all, we want to have a fake dataset for our test... Go on the website *https://www.mockaroo.com/* and prepare your table as on this image (`https://github.com/jujuck/Jamstack_GoogleSheet/blob/main/cardataset.png`) adn export it on CSV. (1000 lines)
+- 1 First fo all, we want to have a fake dataset for our test... Go on the website *https://www.mockaroo.com/* and prepare your table as on this image <img src='https://github.com/jujuck/Jamstack_GoogleSheet/blob/main/cardataset.png' /> adn export it on CSV. (1000 lines)
 - 2 Open a google sheet on your Google Drive. On the *File* menu, click on the import *option* => *Upload* => *Select a file from your device* => select `MOCK_DATA.csv`. Then choose, the *Replace spreadsheet* option and *Import Data*
 - 3 Now you can see your full data.
 - 4 You should now make it public. In this order, click on the *File* menu and then *Share* => *Publish to the web*. Click on publish with the `Entire Document` and `Comma-separated values(.cvs)` options.
