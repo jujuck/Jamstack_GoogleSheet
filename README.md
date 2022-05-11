@@ -1,5 +1,6 @@
 # Getting Started
-Start cloning the project and run `npm install`. 
+Start cloning the project and run `npm install`.
+You can follow the live coding of the project https://drive.google.com/file/d/1CYGOP1gJaPRNBQTcUPR0Pggs-A9Xp2cY/view?usp=sharing
 
 
 ## The context, We want to create a POC (Proof of concept) about second hand car, sold by local company
